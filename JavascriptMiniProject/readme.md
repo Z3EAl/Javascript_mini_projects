@@ -1,1 +1,2 @@
-#This is the pig game
+# Javascript_mini_projects
+1)Pig game
